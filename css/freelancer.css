@@ -17,6 +17,11 @@ h6 {
   -moz-border-radius: 15px;
 }
 
+#logo {
+  width: 100%;
+  height: auto;
+}
+
 #aetos_dios {
   padding-top: 10px;
 }
@@ -34,6 +39,10 @@ section h2 {
   section h2 {
     font-size: 3rem;
     line-height: 2.5rem;
+  }
+  #logo {
+    max-width: 600px;
+    height: auto;
   }
 }
 
@@ -239,7 +248,6 @@ a:focus, a:hover, a:active {
 .btn {
   border-width: 2px;
 }
-
 
 .menu-bg-primary {
   background-color: #9E1B1E !important;

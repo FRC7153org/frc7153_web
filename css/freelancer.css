@@ -38,9 +38,6 @@ section h2 {
 #awards {
   list-style-type: none;
 }
-#awards_header {
-  padding-left: 40px; 
-}
 
 @media (min-width: 992px) {
   section h2 {
@@ -50,6 +47,9 @@ section h2 {
   #logo {
     max-width: 600px;
     height: auto;
+  }
+  #awards_header {
+    padding-left: 40px; 
   }
 }
 

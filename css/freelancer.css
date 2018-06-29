@@ -35,7 +35,7 @@ section h2 {
   line-height: 2rem;
 }
 
-.awards {
+.awards, .sponsors {
   list-style-type: none;
 }
 
@@ -298,4 +298,9 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #9E1B1E;
   border-color: #9E1B1E;
+}
+
+.sponsor_right {
+  position: relative;
+  right: 20px;
 }

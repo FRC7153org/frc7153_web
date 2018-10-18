@@ -304,3 +304,7 @@ a:focus, a:hover, a:active {
   position: relative;
   right: 20px;
 }
+
+#donate {
+  top: 50px;
+}
